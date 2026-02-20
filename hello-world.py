@@ -1,3 +1,5 @@
 print('Hello World via webhook-2 neler yapıldı neler')
 print('webhook2 sadasdafssa mamadas')
 print('webhook2 sm dakldmaklsö ax')
+print('Hello World via webhook-2 neler yapıldı neler')
+print('webhook2 sadasdafssa mamadas')
